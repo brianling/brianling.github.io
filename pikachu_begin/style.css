@@ -1,0 +1,85 @@
+body{
+  background-color: yellow;
+}
+
+.circle1{
+  color: yellow;
+  width: 203px;
+  height: 252px;
+  position: absolute;
+  left: 400px;
+  padding-left: 59px;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 68em;
+  background-color: coral;
+}
+
+.circle2{
+  color: white;
+  width: 203px;
+  height: 145px;
+  position: absolute;
+  top: 330px;
+  left: 250px;
+  padding-top: 59px;
+  padding-left: 15px;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 68em;
+  background-color: #B9775F;
+}
+
+
+.circle3{
+  color: #795548;
+  width: 280px;
+  height: 280px;
+  position: absolute;
+  top: 300px;
+  left: 440px;
+  padding: 100px;
+  border-width: 1px;
+  background-color: white;
+  border-radius: 30em;
+  wrap: inherit;
+}
+
+.circle4{
+  position: absolute;
+  top: 200px;
+  left: 800px;
+  padding: 30px;
+  border-width: 1px;
+  background-color: white;
+  border-radius: 6em;
+}
+
+.circle5{
+  color: white;
+  width: 90px;
+  height: 125px;
+  position: fixed;
+  top: 500px;
+  left: 1100px;
+  padding-left: 33px;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 68em;
+  background-color: #B9775F;
+}
+
+.circle6{
+  color: yellow;
+  width: 147px;
+  height: 117px;
+  position: absolute;
+  top: 800px;
+  left: 400px;
+  padding-top: 59px;
+  padding-left: 36px;
+  border-color: black;
+  border-width: 1px;
+  border-radius: 60em;
+  background-color: coral;
+}

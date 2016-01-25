@@ -1,0 +1,19 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   homework1.html
+#	new file:   images/segway1.jpg
+#	new file:   images/segway2.jpg
+#	new file:   "images/\345\243\253\346\236\227\345\244\234\345\270\202.jpg"
+#	new file:   "images/\345\244\247\350\205\270\345\214\205\345\260\217\350\205\270.jpg"
+#	new file:   "images/\345\244\247\351\244\205\345\214\205\345\260\217\351\244\205.jpg"
+#	new file:   "images/\346\205\210\350\252\240\345\256\256.jpg"
+#	new file:   "images/\350\227\245\347\207\211\346\216\222\351\252\250.jpg"
+#	new file:   "images/\351\231\275\346\230\216\346\210\262\351\231\242.jpg"
+#
+
